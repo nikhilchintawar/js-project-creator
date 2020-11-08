@@ -1,0 +1,15 @@
+{
+  "name": "js-project-creator",
+  "version": "1.0.0",
+  "description": "command line utility to create a default template.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "js-project": "index.js"
+  }
+}
