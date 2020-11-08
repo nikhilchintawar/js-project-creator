@@ -1,14 +1,18 @@
 {
   "name": "js-project-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command line utility to create a default template.",
+  "homepage": "https://github.com/nikhilchintawar/js-project-creator",
+  "bugs": {
+    "url": "https://github.com/nikhilchintawar/js-project-creator/issues"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["js"],
+  "author": "Nikhil Chntawar (https://nikhilchintawar.github.io/)",
+  "license": "MIT",
   "bin": {
     "js-project": "index.js"
   }
